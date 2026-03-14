@@ -1,1 +1,1 @@
-# -AGENTS.md-skills
+# WHITEBOX-AGENTS.md-skills
